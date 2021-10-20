@@ -43,10 +43,10 @@ params:
     social: 
       - icon: fa-twitter
         label: Twitter
-        url: https://www.twitter.com
+        url: https://www.twitter.com/
       - icon: fa-facebook
         label: Facebook
-        url: https://www.facebook.com/yuli.dorji/
+        url: https://www.facebook.com/
       - icon: fa-instagram
         label: Instagram
         url: https://www.instagram.com/nickching98/
@@ -58,7 +58,7 @@ params:
         url: https://www.linkedin.com/in/nicholasthching/
       - icon: fa-youtube
         label: Youtube
-        url: https://www.youtube.com/watch?v=dQw4w9WgXcQ
+        url: https://www.youtube.com/watch?v=Jac7kfARQwI
   image: ''
   name: Your name
   navigation:
@@ -92,7 +92,7 @@ params:
         title: CV and Work Experience
         url: blogs/tempus
       - image: Squash.jpg
-        subtitle: Lorem Etiam Nullam
+        subtitle: 
         title: Squash and Other Interests
         url: blogs/magna
       - image: pic04.jpg
