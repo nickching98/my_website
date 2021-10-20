@@ -99,12 +99,12 @@ params:
         subtitle: Where Do People Drink The Most Beer, Wine And Spirits?
         title: Project 1: Global Alcohol Consumption
         url: blogs/alcohol.html
-      - image: 
+      - image: alcohol.jpg
         subtitle: Looking at predictors of box office revenues 
         title: Project 2: Analysis of Movies using IMDB Data
-        url: 
-      - image: 
-        subtitle: 
+        url: blogs/alcohol.html
+      - image: alcohol.jpg
+        subtitle: Hi
         title: Project 3: 
         url: blogs/ipsum
   two:
