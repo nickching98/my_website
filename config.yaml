@@ -16,7 +16,7 @@ params:
     address:
       - city: Hong Kong SAR
         country: China
-        #street: Street
+        street: Street
         title: Address
     buttonClear: Clear
     buttonSend: Send message
@@ -24,9 +24,9 @@ params:
       - email: tching.mfa2022@london.edu
         title: Email
     enable: yes
-    #phone:
-      - #phone: (000) 000-0000 x1234
-        #title: Phone
+    phone:
+      - phone: (000) 000-0000 x1234
+        title: Phone
   custom_css: []
   custom_js: []
   description: Your description
@@ -81,7 +81,7 @@ params:
   tiles:
     enable: yes
     showcase:
-      - image: lbs.jpg
+      - image: WechatIMG1.jpg
         subtitle: Ipsum Dolor Sit Amet
         title: Aliquam
         url: blogs/aliquam
