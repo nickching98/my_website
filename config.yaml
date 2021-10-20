@@ -78,8 +78,8 @@ params:
      # - name: Elements
         # url: elements.html
     menu: Menu
-    subtitle: By HTML5 Up
-    title: Forty
+   # subtitle: By HTML5 Up
+    title: HOME
   tiles:
     enable: yes
     showcase:
@@ -112,4 +112,6 @@ params:
     enable: yes
     subtitle: "@Nicholas Ching, Made with Academic theme for Hugo"
     title: 
-    url: blogs
+    url: '#'
+    
+    
