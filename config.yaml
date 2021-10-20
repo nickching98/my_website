@@ -14,8 +14,8 @@ params:
   blog: {}
   contact:
     address:
-      - city: Hong Kong SAR
-        country: China
+      - city: London Business School
+        country: United Kingdom
         street: Street
         title: Address
     buttonClear: Clear
