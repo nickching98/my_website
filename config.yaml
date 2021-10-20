@@ -44,9 +44,9 @@ params:
       - icon: fa-twitter
         label: Twitter
         url: https://www.twitter.com
-      - #icon: fa-facebook
-        #label: Facebook
-        #url: https://www.facebook.com/yuli.dorji/
+      - icon: fa-facebook
+        label: Facebook
+        url: https://www.facebook.com/yuli.dorji/
       - icon: fa-instagram
         label: Instagram
         url: https://www.instagram.com/nickching98/
@@ -56,9 +56,9 @@ params:
       - icon: fa-linkedin
         label: LinkedIn
         url: https://www.linkedin.com/in/nicholasthching/
-      - #icon: fa-youtube
-        #label: Youtube
-        #url: https://www.youtube.com/watch?v=dQw4w9WgXcQ
+      - icon: fa-youtube
+        label: Youtube
+        url: https://www.youtube.com/watch?v=dQw4w9WgXcQ
   image: ''
   name: Your name
   navigation:
