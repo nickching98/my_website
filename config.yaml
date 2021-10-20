@@ -95,18 +95,18 @@ params:
         subtitle: What I do in my free time
         title: Squash and Other Interests
         url: blogs/squash2.jpg
-      - image: pic04.jpg
-        subtitle: Nisl Sed Aliquam
-        title: Alcohol 
+      - image: alcohol.jpg
+        subtitle: Where Do People Drink The Most Beer, Wine And Spirits?
+        title: Project 1: Global Alcohol Consumption
+        url: blogs/alcohol.html
+      - image: pic05.jpg
+        subtitle: Ipsum Dolor Sit Amet
+        title: Project 2: Analysis of Movies using IMDB Data
         url: blogs/ipsum
-      #- image: pic05.jpg
-        #subtitle: Ipsum Dolor Sit Amet
-        #title: Consequat
-       # url: blogs/ipsum
-     # - image: pic06.jpg
-        #subtitle: Feugiat Amet Tempus
-        #title: Etiam
-        #url: blogs/ipsum
+      - image: pic06.jpg
+        subtitle: Feugiat Amet Tempus
+        title: Etiam
+        url: blogs/ipsum
   two:
     buttonText: Get Started
     enable: yes
