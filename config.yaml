@@ -90,23 +90,23 @@ params:
       - image: HK.jpg
         subtitle: From HK to LDN to MSK to ALA
         title: CV and Work Experience
-        url: blogs/tempus
+        url: /files/CV_copy.pdf
       - image: Squash.jpg
-        subtitle: 
+        subtitle: What I do in my free time
         title: Squash and Other Interests
         url: blogs/magna
       - image: pic04.jpg
         subtitle: Nisl Sed Aliquam
-        title: Ipsum
+        title: 
         url: blogs/ipsum
-      - image: pic05.jpg
-        subtitle: Ipsum Dolor Sit Amet
-        title: Consequat
-        url: blogs/ipsum
-      - image: pic06.jpg
-        subtitle: Feugiat Amet Tempus
-        title: Etiam
-        url: blogs/ipsum
+      #- image: pic05.jpg
+        #subtitle: Ipsum Dolor Sit Amet
+        #title: Consequat
+       # url: blogs/ipsum
+     # - image: pic06.jpg
+        #subtitle: Feugiat Amet Tempus
+        #title: Etiam
+        #url: blogs/ipsum
   two:
     buttonText: Get Started
     enable: yes
