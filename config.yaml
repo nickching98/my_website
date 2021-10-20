@@ -83,9 +83,9 @@ params:
   tiles:
     enable: yes
     showcase:
-      - image: WechatIMG1.jpg
+      - image: WechatIMG.jpg
         subtitle: My life journey so far 
-        title: My bio
+        title: My bio and CV
         url: blogs/aliquam
       - image: pic02.jpg
         subtitle: Feugiat Amet Tempus
