@@ -83,17 +83,17 @@ params:
   tiles:
     enable: yes
     showcase:
-      - image: WechatIMG.jpg
+      - image: WechatIMG1.jpg
         subtitle: My life journey so far 
-        title: My bio and CV
+        title: My bio
         url: blogs/aliquam
-      - image: pic02.jpg
+      - image: HK.jpg
         subtitle: Feugiat Amet Tempus
-        title: Tempus
+        title: CV and work experience
         url: blogs/tempus
       - image: pic03.jpg
         subtitle: Lorem Etiam Nullam
-        title: Magna
+        title: 
         url: blogs/magna
       - image: pic04.jpg
         subtitle: Nisl Sed Aliquam
