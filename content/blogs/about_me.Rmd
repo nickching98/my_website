@@ -1,0 +1,26 @@
+---
+title: 'MFA 2022 Pre-programme Assignment'
+author: "Teen Ho Nicholas Ching"
+date: "11/09/21"
+output:
+  html_document:
+    theme: flatly
+    highlight: zenburn
+    toc: yes
+    toc_float: yes
+---
+
+# Brief Introduction
+---
+Dear all,
+
+My name is Nicholas Ching. I am 22 and from Hong Kong, though I have spent many years already in the UK. I started going to boarding school here at the age of 13, so even though my parents still live and work in Hong Kong, I have spent many of my formative years in the UK! I have just finished my undergraduate degree at Oxford, studying Classics and Russian, so I have never formally studied Finance or Data Analytics. Despite this, many of my work experiences have been finance-related and I have self-taught myself many things in order to keep up. A list of relevant work experiences I have had include:
+
+1. Sales & Trading at Credit Suisse
+2. Private Equity at a Chinese PE firm
+3. Consulting at PwC
+
+I am very excited to study this Master's in Financial Analysis at London Business School and I have no doubts that it will prepare me well for my future career. To begin my career, I am looking for opportunities in IBD or equity research which I think will give me a good fundamental basis for my future endeavours. 
+
+Best wishes,
+Nicholas

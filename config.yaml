@@ -86,7 +86,7 @@ params:
       - image: WechatIMG2.jpg
         subtitle: My life journey so far 
         title: My Bio
-        url: blogs/aliquam
+        url: blogs/about_me.html
       - image: HK.jpg
         subtitle: From HK to LDN to MSK to ALA
         title: CV and Work Experience
