@@ -8,9 +8,8 @@ output:
     highlight: zenburn
     toc: yes
     toc_float: yes
----
-
-# Brief Introduction
+  pdf_document:
+    toc: yes
 ---
 Dear all,
 

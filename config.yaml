@@ -67,10 +67,10 @@ params:
         url: blogs
     button2:
       - name: Log In
-        url: '#'
+        url: ''
     links:
       - name: Home
-        url: '#'
+        url: ''
       - name: Blogs
         url: blogs
       - name: Generic Blog
@@ -86,7 +86,7 @@ params:
       - image: WechatIMG2.jpg
         subtitle: My life journey so far 
         title: My Bio
-        url: blogs/about_me2
+        url: blogs/about_me1
       - image: HK.jpg
         subtitle: From HK to LDN to MSK to ALA
         title: CV and Work Experience
@@ -110,6 +110,6 @@ params:
   two:
     buttonText: Get Started
     enable: yes
-    subtitle: ""
+    subtitle: "@Nicholas Ching, Made with Academic theme for Hugo"
     title: 
     url: blogs
