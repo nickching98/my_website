@@ -86,7 +86,7 @@ params:
       - image: WechatIMG2.jpg
         subtitle: My life journey so far 
         title: My Bio
-        url: blogs/about_me2.html
+        url: blogs/about_me1.html
       - image: HK.jpg
         subtitle: From HK to LDN to MSK to ALA
         title: CV and Work Experience
@@ -99,13 +99,13 @@ params:
         subtitle: Where Do People Drink The Most Beer, Wine And Spirits?
         title: Project 1: Global Alcohol Consumption
         url: blogs/alcohol.html
-      - image: pic05.jpg
-        subtitle: Ipsum Dolor Sit Amet
+      - image: 
+        subtitle: Looking at predictors of box office revenues 
         title: Project 2: Analysis of Movies using IMDB Data
-        url: blogs/ipsum
-      - image: pic06.jpg
-        subtitle: Feugiat Amet Tempus
-        title: Etiam
+        url: 
+      - image: 
+        subtitle: 
+        title: Project 3: 
         url: blogs/ipsum
   two:
     buttonText: Get Started
