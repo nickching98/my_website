@@ -1,6 +1,6 @@
-baseURL: http://example.org/
+baseURL: https://nicholasching.netlify.app/
 languageCode: en-us
-title: Forty
+title: Teen Ho Nicholas Ching's Portfolio Website
 theme: forty
 googleAnalytics: ''
 disqusShortname: ''
@@ -8,25 +8,25 @@ params:
   banner:
     buttonText: Get Started
     subtitle: |-
-      A RESPONSIVE SITE TEMPLATE DESIGNED BY HTML5 UP
-      AND RELEASED UNDER THE CREATIVE COMMONS.
-    title: Hi, my name is Forty
+     # A RESPONSIVE SITE TEMPLATE DESIGNED BY HTML5 UP
+      # AND RELEASED UNDER THE CREATIVE COMMONS.
+    title: Hi, my name is Nick, welcome to my website :)
   blog: {}
   contact:
     address:
-      - city: City, ST 00000
-        country: Country
-        street: Street
+      - city: Hong Kong SAR
+        country: China
+        #street: Street
         title: Address
     buttonClear: Clear
     buttonSend: Send message
     email:
-      - email: example@domain.com
+      - email: tching.mfa2022@london.edu
         title: Email
     enable: yes
-    phone:
-      - phone: (000) 000-0000 x1234
-        title: Phone
+    #phone:
+      - #phone: (000) 000-0000 x1234
+        #title: Phone
   custom_css: []
   custom_js: []
   description: Your description
@@ -35,28 +35,28 @@ params:
     text: Please visit [this page](/)
   favicon: favicon.ico
   footer:
-    copyright: Company Name
+    copyright: Data Analytics MFA2022
     enable: yes
     quicklinks:
       - alt: HTML5 UP
         text: 'Design: '
         url: https://www.html5up.net
     social:
-      - icon: fa-twitter
-        label: Twitter
-        url: https://www.twitter.com
-      - icon: fa-facebook
-        label: Facebook
-        url: https://www.facebook.com
+      - #icon: fa-twitter
+        #label: Twitter
+       # url: https://www.twitter.com
+      - #icon: fa-facebook
+       # label: Facebook
+       # url: https://www.facebook.com
       - icon: fa-instagram
         label: Instagram
-        url: https://www.instagram.com
+        url: https://www.instagram.com/nickching98/
       - icon: fa-github
         label: GitHub
-        url: https://www.github.com
+        url: https://github.com/nickching98
       - icon: fa-linkedin
         label: LinkedIn
-        url: https://www.linkedin.com
+        url: https://www.linkedin.com/in/nicholasthching/
   image: ''
   name: Your name
   navigation:
