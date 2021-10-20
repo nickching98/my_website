@@ -62,10 +62,10 @@ params:
   image: ''
   name: Your name
   navigation:
-    button1:
+    #button1:
       - name: Get Started
         url: blogs
-    button2:
+    #button2:
       - name: Log In
         url: ''
     links:
