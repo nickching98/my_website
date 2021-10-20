@@ -94,21 +94,21 @@ params:
       - image: Squash.jpg
         subtitle: What I do in my free time
         title: Squash and Other Interests
-        url: blogs/squash2.jpg
+        url: /files/squash.pdf
       - image: alcohol.jpg
         subtitle: Where Do People Drink The Most Beer, Wine And Spirits?
         title: Project 1-Global Alcohol Consumption
         url: blogs/alcohol.html
-      - image: alcohol.jpg
+      - image: IMAX.jpg
         subtitle: Looking at predictors of box office revenues 
         title: Project 2-Analysis of Movies using IMDB Data
-        url: blogs/alcohol.html
-      - image: alcohol.jpg
-        subtitle: Hi
-        title: Project 3-
-        url: blogs/ipsum
+        url: blogs/Movies.html
+      - image: stocks.jpg
+        subtitle: Risk as a key indicator of return
+        title: Project 3-Analysing Returns of Financial Stocks
+        url: blogs/stocks.html
   two:
-    buttonText: Get Started
+    buttonText: Back to Home
     enable: yes
     subtitle: "@Nicholas Ching, Made with Academic theme for Hugo"
     title: 
