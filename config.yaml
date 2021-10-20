@@ -9,7 +9,7 @@ params:
     buttonText: Get Started
     subtitle: |-
       Welcome to my website.
-    title: Hi, I'm Nick and this is my website 
+    title: Hi, I'm Nick and this is my website :) 
   blog: {}
   contact:
     address:
@@ -83,9 +83,9 @@ params:
   tiles:
     enable: yes
     showcase:
-      - image: pic01.jpg
-        subtitle: Ipsum Dolor Sit Amet
-        title: Aliquam
+      - image: WechatIMG1.jpg
+        subtitle: My life journey so far 
+        title: My bio
         url: blogs/aliquam
       - image: pic02.jpg
         subtitle: Feugiat Amet Tempus
