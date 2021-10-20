@@ -86,7 +86,7 @@ params:
       - image: WechatIMG2.jpg
         subtitle: My life journey so far 
         title: My Bio
-        url: blogs/about_me1
+        url: blogs/about_me2.html
       - image: HK.jpg
         subtitle: From HK to LDN to MSK to ALA
         title: CV and Work Experience
@@ -94,10 +94,10 @@ params:
       - image: Squash.jpg
         subtitle: What I do in my free time
         title: Squash and Other Interests
-        url: blogs/magna
+        url: blogs/squash2.jpg
       - image: pic04.jpg
         subtitle: Nisl Sed Aliquam
-        title: 
+        title: Alcohol 
         url: blogs/ipsum
       #- image: pic05.jpg
         #subtitle: Ipsum Dolor Sit Amet
