@@ -1,6 +1,6 @@
-baseURL: https://ydorji-portfolio.netlify.app/
+baseURL: https://nicholasching.netlify.app/
 languageCode: en-us
-title: Portfolio Website Yugyel 
+title: Teen Ho Nicholas Ching's Portfolio Website 
 theme: forty
 googleAnalytics: ''
 disqusShortname: ''
@@ -8,8 +8,8 @@ params:
   banner:
     buttonText: Get Started
     subtitle: |-
-      This is for you, my fans. Thank you all.
-    title: Hi, my name is Yugyel and this is my website
+      Welcome to my website.
+    title: Hi, I'm Nick and this is my website 
   blog: {}
   contact:
     address:
@@ -20,11 +20,11 @@ params:
     buttonClear: Clear
     buttonSend: Send message
     email:
-      - email: ydorji.mfa2022@london.edu
+      - email: tching.mfa2022@london.edu
         title: Email
     enable: yes
     phone:
-      - phone: 07478 115238
+      - phone: 
         title: Phone
   custom_css: []
   custom_js: []
@@ -44,21 +44,21 @@ params:
       - icon: fa-twitter
         label: Twitter
         url: https://www.twitter.com
-      - icon: fa-facebook
-        label: Facebook
-        url: https://www.facebook.com/yuli.dorji/
+      - #icon: fa-facebook
+        #label: Facebook
+        #url: https://www.facebook.com/yuli.dorji/
       - icon: fa-instagram
         label: Instagram
-        url: https://www.instagram.com/yulidorji/
+        url: https://www.instagram.com/nickching98/
       - icon: fa-github
         label: GitHub
-        url: https://www.github.com/dorjiyugyel
+        url: https://www.github.com/nickching98/
       - icon: fa-linkedin
         label: LinkedIn
-        url: https://www.linkedin.com/in/yulidorji
-      - icon: fa-youtube
-        label: Youtube
-        url: https://www.youtube.com/watch?v=dQw4w9WgXcQ
+        url: https://www.linkedin.com/in/nicholasthching/
+      - #icon: fa-youtube
+        #label: Youtube
+        #url: https://www.youtube.com/watch?v=dQw4w9WgXcQ
   image: ''
   name: Your name
   navigation:
@@ -110,10 +110,6 @@ params:
   two:
     buttonText: Get Started
     enable: yes
-    subtitle: "We're no strangers to love. \r\n You know the rules and so do I. \r\n 
-    A full commitment's what I'm thinking of. \r\n  You wouldn't get this from any other guy. \r\n 
-    I just wanna tell you how I'm feeling. \r\n Gotta make you understand. \r\n
-    Never gonna give you up, never gonna let you down. \r\n Never gonna turn around and 
-    desert you. \r\n"
-    title: Never Ever
+    subtitle: ""
+    title: 
     url: blogs
